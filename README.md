@@ -46,3 +46,8 @@ UI for team view:
 UI for leaderboard view:
 
 <img src="project/leaderboard.png">
+
+
+UI for matchups view:
+
+<img src="project/matchups.png">
