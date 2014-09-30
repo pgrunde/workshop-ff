@@ -29,6 +29,7 @@ I have done a little work for you, on the app too...
 
 ## Fantasy Data
 
+- League
 - Users
 - Teams
 - Players
