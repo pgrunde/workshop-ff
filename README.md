@@ -37,3 +37,7 @@ I have done a little work for you, on the app too...
 - Draft
 - Starting Lineups
 - Matchups
+
+UI for team view:
+
+<img src="project/team-view.png">
