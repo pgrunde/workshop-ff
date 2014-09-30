@@ -41,3 +41,8 @@ I have done a little work for you, on the app too...
 UI for team view:
 
 <img src="project/team-view.png">
+
+
+UI for leaderboard view:
+
+<img src="project/leaderboard.png">
