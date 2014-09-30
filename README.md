@@ -20,19 +20,19 @@ I have done a little work for you, on the app too...
 
 ## NFL Data
 
-Teams
-Players
-Weekly Stats
-Games
-Weeks
-Injured List
+- Teams
+- Players
+- Weekly Stats
+- Games
+- Weeks
+- Injured List
 
 ## Fantasy Data
 
-Users
-Teams
-Players
-Points
-Draft
-Starting Lineups
-Matchups
+- Users
+- Teams
+- Players
+- Points
+- Draft
+- Starting Lineups
+- Matchups
