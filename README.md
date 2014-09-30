@@ -51,3 +51,7 @@ UI for leaderboard view:
 UI for matchups view:
 
 <img src="project/matchups.png">
+
+UI for players view:
+
+<img src="project/players.png">
