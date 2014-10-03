@@ -1,0 +1,16 @@
+<% @fantasy_teams.each do |team|  %>
+<table>
+  <tr>
+    <td><%= team.name %> - <%= team.user.name %></td>
+  </tr>
+  <tr>
+    <td><%= team.winning_matches %></td>
+  </tr>
+  <tr>
+    <td>Pts:<%= team.last_week_pts %></td>
+  </tr>
+</table>
+<!--win loss-->
+<!--weekly stats (yards) -->
+<!--starting line up -->
+<% end %>

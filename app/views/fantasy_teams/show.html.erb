@@ -1,0 +1,21 @@
+<%= @fantasy_team.name %>
+<table>
+  <th>
+  <tr>
+    <td>Team Name</td>
+    <td>Player Name</td>
+    <td>Position</td>
+    <td>Yards</td>
+    </tr>
+  </th>
+    <tbody>
+    <% @fantasy_team.players.each do |player|  %>
+    <tr>
+      <td><%= player.nfl_team.name %></td>
+    <td><%= player.name %></td>
+    <td><%= player.position %></td>
+    <td><%= player.weekly_stats.first.yards %></td>
+    </tr>
+      <% end %>
+    </tbody>
+</table>
